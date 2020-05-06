@@ -23,7 +23,8 @@ Reliability - Having gone through major progress, the goal is to remain consiste
 Team - Comprised of various professionals in various financial expertise with a togetherness as a team towards a decentralized crypto finance service.
 
 
-Projects in a brief \|\|\|/|/|/|/|/
+Projects in a brief ‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖※※※※※※※※
+
 
 FinTrade - The first development under PayPDM Network, operating since 2018.
 
@@ -41,8 +42,9 @@ Holder Benefits - Cashback rewards of 3% in every operational month.
                 
                 - as a trading instruments for crypto asset purposes.
                 
+___________________________________________________________________________________________                
 
-PayPDM Coin (PYD)
+PayPDM Coin Information
 
 Token Name: PayPDM Coin
 
