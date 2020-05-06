@@ -22,8 +22,8 @@ Reliability - Having gone through major progress, the goal is to remain consiste
 
 Team - Comprised of various professionals in various financial expertise with a togetherness as a team towards a decentralized crypto finance service.
 
-
-Projects in a brief ‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖‖※※※※※※※※
+_______________________________________________________________________________________
+Projects in a brief 
 
 
 FinTrade - The first development under PayPDM Network, operating since 2018.
@@ -54,6 +54,6 @@ Token Decimals: 18
 
 Contract Address: https://etherscan.io/token/0xE8f8378f02DD54153aA21d93673F291322222714
 
-circulation Supply: 200,000,000
+Circulating Supply: 200,000,000
 
 Total  Supply: 1,000,000,000
