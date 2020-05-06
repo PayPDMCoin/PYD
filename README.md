@@ -26,7 +26,7 @@ ________________________________________________________________________________
 Projects in a brief 
 
 
-FinTrade - The first development under PayPDM Network, operating since 2018.
+FinTrade - The first development under PayPDM Network, operating since 2018 providing financial trading with focuses on foreign exchange, cryptocurrency as well as crypto asset diversification for a low risk crypto portfolio. 
 
 PDM Fundings - Providing fundings for crypto related startups with a growth potential.
 
